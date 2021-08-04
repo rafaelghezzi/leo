@@ -1,0 +1,12 @@
+C:\Projetos\leo\LEO\Leo.Core\bin\Debug\net5.0\Leo.Core.deps.json
+C:\Projetos\leo\LEO\Leo.Core\bin\Debug\net5.0\Leo.Core.dll
+C:\Projetos\leo\LEO\Leo.Core\bin\Debug\net5.0\ref\Leo.Core.dll
+C:\Projetos\leo\LEO\Leo.Core\bin\Debug\net5.0\Leo.Core.pdb
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.csproj.AssemblyReference.cache
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.AssemblyInfoInputs.cache
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.AssemblyInfo.cs
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.dll
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\ref\Leo.Core.dll
+C:\Projetos\leo\LEO\Leo.Core\obj\Debug\net5.0\Leo.Core.pdb

@@ -1,0 +1,15 @@
+C:\Projetos\leo\LEO\Leo.Service\bin\Debug\net5.0\Leo.Service.deps.json
+C:\Projetos\leo\LEO\Leo.Service\bin\Debug\net5.0\Leo.Service.dll
+C:\Projetos\leo\LEO\Leo.Service\bin\Debug\net5.0\ref\Leo.Service.dll
+C:\Projetos\leo\LEO\Leo.Service\bin\Debug\net5.0\Leo.Service.pdb
+C:\Projetos\leo\LEO\Leo.Service\bin\Debug\net5.0\Leo.Core.dll
+C:\Projetos\leo\LEO\Leo.Service\bin\Debug\net5.0\Leo.Core.pdb
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.csproj.AssemblyReference.cache
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.AssemblyInfoInputs.cache
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.AssemblyInfo.cs
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.csproj.CopyComplete
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.dll
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\ref\Leo.Service.dll
+C:\Projetos\leo\LEO\Leo.Service\obj\Debug\net5.0\Leo.Service.pdb
